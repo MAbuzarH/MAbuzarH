@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAbuzarH
 - 👀 I’m interested in web 2.0 and 3.0 development
-- 🌱 I’m currently working on React and Next js and system programming in C language
-- 💞️ I’m looking to collaborate on any project related to React js.
+- 🌱 I’m currently working on React, djano, Next js and system programming in C language
+- 💞️ I’m looking to collaborate on any project related to React js and django.
 - 📫 This is my portfolio website https://abuzar-nu.vercel.app/
 - 
 
